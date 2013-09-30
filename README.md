@@ -45,9 +45,10 @@ will. Event folders work just fine, since I don't have to ask permission to do
 so.
 
 ### Simple modification of exif data
-It appears as though [phatch](http://photobatch.wikidot.com/) works just fine
-for this. I'll have to mess around with it and see if it makes sense for basic
-exif editing. Mostly I need to be able to add date to scanned images and tags.
+I've settled on [pyExifToolGUI](https://github.com/hvdwolf/pyExifToolGUI)
+
+As a bonus, I can use exiftool from the commandline if necessary and do some
+batch changes in photos.
 
 ## The Future
 In the future, I think I'll make a
