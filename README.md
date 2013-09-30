@@ -13,6 +13,7 @@ an organized structure.
 1. Simple modification of exif data.
 
 Here are some issues I'm seeing with other projects:
+
 1. Hyper focused on sharing versus just storing and protecting my original
 images.
 1. No concept or clue about how many photos a typical user will have and want
